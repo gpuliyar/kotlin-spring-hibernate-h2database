@@ -16,3 +16,6 @@ But doesn't yet know how to code a simple Standalone application written in Kotl
 
 ## Start of the Application here:
 [Main function](src/main/kotlin/com/gp/service/ApplicationMain.kt)
+
+## DB Properties File here:
+[db.properties](src/main/resources/db.properties)
