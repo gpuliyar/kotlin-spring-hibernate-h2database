@@ -11,7 +11,8 @@ And know the inner workings (at least a little bit) of Spring and Hibernate;
 And have built PoC solution using H2 database (or at least heard of it and knows it theoretically); 
 But doesn't yet know how to code a simple Standalone application written in Kotlin using Spring and Hibernate to store data in H2 database, then you landed on the right page. 
 
-The Application Configuration found in the below file:
+## Application Configuration found in the below file:
+kotlin-spring-hibernate-h2database/src/main/kotlin/com/gp/service/ApplicationConfig.kt
 
-        kotlin-spring-hibernate-h2database/src/main/kotlin/com/gp/service/ApplicationConfig.kt
-      
+## Start of the Application here:
+kotlin-spring-hibernate-h2database/src/main/kotlin/com/gp/service/ApplicationMain.kt
